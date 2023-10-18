@@ -13,6 +13,7 @@ output_data folder containing:
     Fig2.png - Latitude vs Humidity scatter plot
     Fig3.png - Latitude vs Cloudiness scatter plot
     Fig4.png - Latitude vs Wind Speed scatter plot
+
 WeatherPy folder containing:
     WeatherPy.ipynb - Python jupyter notebook file for part 1 of the challenge
     Vacation.ipynb - Python jupyter notebook file for part 2 of the challenge
